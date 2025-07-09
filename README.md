@@ -1,4 +1,4 @@
-# Frozen Lake RL Agents
+# Frozen Lake
 
 This repository demonstrates the implementation and comparison of three Reinforcement Learning (RL) algorithms on the classic Frozen Lake environment from OpenAI Gymnasium:
 
